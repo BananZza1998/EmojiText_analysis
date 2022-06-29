@@ -12,6 +12,6 @@ P.S. Sorry I can not share the data as it was only avaliable for class assignmen
 
 Please enjoy! 😉  
 
-![repo_pic](https://github.com/BananZza1998/Snaps_1/blob/main/emoji.jpeg)
+![repo_pic](https://github.com/BananZza1998/Snaps_1/blob/main/emoji.webp)
 
 
