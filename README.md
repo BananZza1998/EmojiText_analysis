@@ -8,7 +8,7 @@ Repo Content:
 2. Venmo Word Classification Dictonary Dict.csv - dicrionary of words
 3. Venmo_Emoji_Classification_Dictionary.csv - dictionary of emoji
 
-P.S. Sorry I can not share the data as it was only avaliable for class assignment. 
+P.S. Sorry I can not share the dataset used as it was only avaliable for class assignment. 
 
 Please enjoy! 😉  
 
