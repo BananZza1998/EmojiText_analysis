@@ -10,7 +10,6 @@ Repo Content:
 
 P.S. Sorry I can not share the dataset used as it was only avaliable for class assignment. 
 
-Please enjoy! 😉  
 
 ![repo_pic](https://github.com/BananZza1998/Snaps_1/blob/main/emoji.webp)
 
